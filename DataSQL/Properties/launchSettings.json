@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DataSQL": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "ConnectionString": "Server=localhost;User=root;Password=test123;Database=demo"
+      }
+    }
+  }
+}
